@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "name": "CNC Machine",
+    "serial": "CNC-001",
+    "department": "Production",
+    "maintenance_team": "Mechanics",
+    "location": "Block A",
+    "is_scrapped": false
+  }
+]
