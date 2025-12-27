@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "subject": "Oil Leakage",
+    "equipment_id": 1,
+    "team": "Mechanics",
+    "assigned_to": "",
+    "type": "Corrective",
+    "status": "New",
+    "scheduled_date": "",
+    "duration": 0,
+    "is_overdue": false
+  }
+]
